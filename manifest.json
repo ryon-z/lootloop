@@ -1,0 +1,18 @@
+{
+  "name": "루트루프 (LootLoop) - Enterprise AI Assistant",
+  "short_name": "LootLoop",
+  "description": "최신 AI 코딩 에이전트로 위장한 오피스 방치형 PoE 텍스트 ARPG",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0d0e12",
+  "theme_color": "#12131a",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
